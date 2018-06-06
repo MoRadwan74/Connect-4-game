@@ -11,11 +11,3 @@ You can play with 2 modes :
 
 - Please Note :
  The second mode is not working yet, So Don't use it untill we fix its bugs.
- 
- -- Team Members :
- > Mohamed Ahmed Radwan ( Me ^^)
- > Mohamed Emad El-Din
- > Mohamed Aref El-Debies
- > Amr Mohamed Atia
- > Ahmed El-Attar
- 
